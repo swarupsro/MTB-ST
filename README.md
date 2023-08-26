@@ -1,11 +1,12 @@
 # MTB-ST
+
 Segmentation Testing Framework
 
-* 
+*   Scan between 2 block
 
 
 # Todo
 
 * Simulate in Flask
-* Cross Network Test
+* Network Test among multiple block
 * Schedule Scan
